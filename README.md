@@ -96,7 +96,8 @@ nodemon server.js
 Server will run on:
 
 ```
-http://localhost:5000
+
+https://jswtoken.vercel.app/
 ```
 
 ---
